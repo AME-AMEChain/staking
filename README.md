@@ -123,5 +123,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 - **Author**: AME Chain
-- **GitHub**: [Link to your repository]
-- **Support**: [Your support email or website]
+- **GitHub**: [https://github.com/AME-AMEChain/staking]
+- **Support**: [https://amechain.io]
